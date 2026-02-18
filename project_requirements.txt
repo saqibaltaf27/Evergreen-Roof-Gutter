@@ -1,0 +1,18 @@
+Project-Name: Lead-to-Discord Webhook Integrator for Evergreen Roof & Gutter
+
+Overview: This middleware service instantly captures website leads and posts them to Discord as formatted job alerts.
+
+Requirements:
+    - Webhook listener script
+    - Data parsing script
+    - Discord Integration and Formatting
+    - Error Handling and Validation
+    - Sample JSON payload for testing
+
+Deliverables:
+    1. Codebase: A ZIP file containing the complete documented source code.
+    2. Deployment Github: A public Github Repository Link
+    3. Deployment Verel: A link to live deployed Demo
+    4. Visual Proof: A screenshot of a successful "High Urgency" notification on Discord
+    5. README: A documentation file on how to update the Discord Webhook URL environment variable.
+    

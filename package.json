@@ -1,0 +1,14 @@
+{
+  "name": "evergreen-lead-discord-integrator",
+  "version": "1.0.0",
+  "description": "Production Grade Lead to Discord Webhook Integrator",
+  "license": "ISC",
+  "author": "saqib",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.13.5"
+  }
+}
