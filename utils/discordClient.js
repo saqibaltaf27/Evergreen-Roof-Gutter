@@ -1,5 +1,5 @@
 import axios from "axios";
-import  { logError, logInfo } from './logger';
+import  { logError, logInfo } from './logger.js';
 
 export async function sendToDiscord(webhookUrl, message) {
     const MAX_RETRIES = 3;

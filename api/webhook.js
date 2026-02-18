@@ -1,8 +1,8 @@
-import { validatePayload } from "../utils/validator";
-import { generateGoogleMapsUrl } from "../utils/maps";
-import { createDiscordEmbed } from "../utils/discordFormatter";
-import { sendToDiscord } from "../utils/discordClient";
-import { logError, logInfo } from "../utils/logger";
+import { validatePayload } from "../utils/validator.js";
+import { generateGoogleMapsUrl } from "../utils/maps.js";
+import { createDiscordEmbed } from "../utils/discordFormatter.js";
+import { sendToDiscord } from "../utils/discordClient.js";
+import { logError, logInfo } from "../utils/logger.js";
 
 export default async function handler(req, res) {
     if(req.method !== "POST") {
