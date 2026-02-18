@@ -11,8 +11,8 @@ Requirements:
 
 Deliverables:
     1. Codebase: A ZIP file containing the complete documented source code.
-    2. Deployment Github: A public Github Repository Link
-    3. Deployment Verel: A link to live deployed Demo
-    4. Visual Proof: A screenshot of a successful "High Urgency" notification on Discord
+    2. Deployment Github: A public Github Repository Link (https://github.com/saqibaltaf27/Evergreen-Roof-Gutter.git)
+    3. Deployment Verel: A link to live deployed Demo (https://evergreen-roof-gutter.vercel.app/)
+    4. Visual Proof: A screenshot of a successful "High Urgency" notification on Discord 
     5. README: A documentation file on how to update the Discord Webhook URL environment variable.
     
